@@ -1,0 +1,4 @@
+RAW MR data converted to NIFTI+JSON(metadata)
+The structure and naming comply to BIDS, however additional information (subject details for group level analysis, stimulation and response logs, other simultaneous recordings, etc.) have to be filled in to become full valid BIDS dataset. 
+Special care have to be taken to func/BOLD as there can be multiple hitches to deal with, such as repeated sequences, matching stimulation logs (*_events.tsv), differences across subjects, etc.
+

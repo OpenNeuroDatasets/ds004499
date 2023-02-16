@@ -1,0 +1,13 @@
+{
+ "sex": {
+  "Description": "Sex of the participant (DICOM derived)",
+  "levels": {
+   "M": "male",
+   "F": "female"
+  }
+ },
+ "age": {
+  "Description": "Age of the participant (DICOM derived)",
+  "Units": "years"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "Name": "Multi-echo simultaneous multislice fMRI dataset: Effect of acquisition parameters on fMRI data",
+ "BIDSVersion": "1.8.0",
+ "DatasetType": "raw",
+ "Authors": [
+  "Michal Mikl",
+  "Anezka Kovarova",
+  "Martin Gajdos",
+  "Radek Marecek",
+  "Marie Novakova",
+  "Tomas Slavicek"
+ ],
+ "License": "CC0",
+ "Acknowledgements": "We acknowledge the core facility MAFIL supported by the Czech-BioImaging large RI project (LM2018129  funded by MEYS CR), part of the Euro-BioImaging (www.eurobioimaging.eu) ALM and Medical Imaging Node (Brno, CZ), for their support with obtaining scientific data presented in this paper.",
+ "HowToAcknowledge": "We acknowledge the core facility MAFIL supported by the Czech-BioImaging large RI project (LM2018129  funded by MEYS CR), part of the Euro-BioImaging (www.eurobioimaging.eu) ALM and Medical Imaging Node (Brno, CZ), for their support with obtaining scientific data presented in this paper.", 
+ "Funding": [
+  "LM2018129  funded by MEYS CR"
+  ],
+ "ReferencesAndLinks": [
+  "https://mafil.ceitec.cz"
+ ],
+ "DatasetDOI": "10.18112/openneuro.xxxxx.v1.0.4",
+ "GeneratedBy": [
+  {
+   "Name": "mafil_dicom2preBIDS",
+   "Version": "v1.07"
+  }
+ ]
+}
