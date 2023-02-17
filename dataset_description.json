@@ -19,8 +19,7 @@
  "ReferencesAndLinks": [
   "https://mafil.ceitec.cz"
  ],
- "DatasetDOI": "https://handle.stage.datacite.org/10.80618/eyr8-jb15",
- "GeneratedBy": [
+ "DatasetDOI": "10.58071/njhx-b011"
   {
    "Name": "mafil_dicom2preBIDS",
    "Version": "v1.07"
