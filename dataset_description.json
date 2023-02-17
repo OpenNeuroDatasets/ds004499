@@ -20,6 +20,7 @@
   "https://mafil.ceitec.cz"
  ],
  "DatasetDOI": "10.58071/njhx-b011",
+ "GeneratedBy": [
   {
    "Name": "mafil_dicom2preBIDS",
    "Version": "v1.07"
