@@ -19,7 +19,7 @@
  "ReferencesAndLinks": [
   "https://mafil.ceitec.cz"
  ],
- "DatasetDOI": "10.18112/openneuro.xxxxx.v1.0.4",
+ "DatasetDOI": "https://handle.stage.datacite.org/10.80618/eyr8-jb15",
  "GeneratedBy": [
   {
    "Name": "mafil_dicom2preBIDS",
